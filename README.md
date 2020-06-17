@@ -14,22 +14,21 @@ what is in their cart, each item’s price, and the total cost creates a form wh
 ## ScreenShots on how to navigate the Site
 
 * Navigation of the site
-![Gadgetcentral](/images/Navigation.png)
+![Gadgetcentral](/images/Navigation.PNG)
 
 
 * Examples of Products on the site
-![Products](/images/Products.png)
+![Products](/images/Products.PNG)
 
 
-*Hover on image to add item to cart(click)
-![Hover](/images/Hover on image to add to shopping cart.png)
+* Hover on image to add item to cart(click)
+![Hover](/images/Hover.PNG)
 
-*When you click the add to cart button you should see an increase in the cart icon
-![Cart](/images/Updated cart.png)
+* When you click the add to cart button you should see an increase in the cart icon
+![Cart](/images/Updated.PNG)
 
-*You should be able to items added on the cart
-![What's on the cart](/images/items added on the Cart.png)
-
+* You should be able to items added on the cart
+![What's on the cart](/images/Cart.PNG)
 
 
 
